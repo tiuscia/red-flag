@@ -5,6 +5,10 @@
   flex-direction: column;
   justify-content: center;
   align-items: center;
+  background-color: #ffffff;
+  opacity: 0.8;
+  background-image: linear-gradient(45deg, #f10e0e 50%, #ffffff 50%);
+  background-size: 25px 25px;
 }
 
 .main {
@@ -49,7 +53,9 @@
 .title {
   margin: 0;
   line-height: 1.15;
-  font-size: 4rem;
+  font-size: 10rem;
+  text-shadow: -8px -8px 0 #fff, 8px -8px 0 #fff, -8px 8px 0 #fff,
+    8px 8px 0 #fff;
 }
 
 .title,
