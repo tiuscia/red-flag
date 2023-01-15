@@ -5,10 +5,9 @@ currently working on the authentication
 
 👨‍💻
 ✔️ Next.js
-✔️ Using nextAuth.js for authentication
+✔️ NextAuth.js
 
-🎯
-✔️ The goal is to build HTML static pages based on the content created by the users.
+🎯 The goal is to build HTML static pages based on the content created by the users.
 
 - The content is visible to everyone and the user can edit only its own content
 - the user has one page that can edit (1:1)
